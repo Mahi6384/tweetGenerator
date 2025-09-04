@@ -1,6 +1,6 @@
 #  Tweet Generator
 
-A simple AI-powered web app that generates creative and engaging tweets using the Hugging Face Inference API. Built with React and styled using CSS, this project showcases how AI can assist with content creation in real time.
+An AI-powered web app that generates creative and engaging tweets using the Hugging Face Inference API. Built with React and styled using CSS, this project showcases how AI can assist with content creation in real time.
 
 ---
 
