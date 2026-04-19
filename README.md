@@ -25,5 +25,5 @@ An AI-powered web app that generates creative and engaging tweets using the Hugg
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/tweet-generator.git
+   git clone https://github.com/Mahi6384/tweet-generator.git
    cd tweet-generator
